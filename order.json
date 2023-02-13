@@ -17,17 +17,17 @@
          },
          "interstitialSettings":{
             "adType":2,
-            "orderAndroid":1,
-            "orderiOS":1,
-            "orderWindows":1,
+            "orderAndroid":2,
+            "orderiOS":2,
+            "orderWindows":2,
             "weightAndroid":0,
             "weightiOS":0,
             "weightWindows":0
          },
          "rewardedSettings":{
             "adType":3,
-            "orderAndroid":3,
-            "orderiOS":3,
+            "orderAndroid":2,
+            "orderiOS":2,
             "orderWindows":3,
             "weightAndroid":0,
             "weightiOS":0,
@@ -48,9 +48,9 @@
          },
          "interstitialSettings":{
             "adType":2,
-            "orderAndroid":2,
-            "orderiOS":2,
-            "orderWindows":2,
+            "orderAndroid":1,
+            "orderiOS":1,
+            "orderWindows":1,
             "weightAndroid":0,
             "weightiOS":0,
             "weightWindows":0
@@ -88,9 +88,9 @@
          },
          "rewardedSettings":{
             "adType":3,
-            "orderAndroid":2,
-            "orderiOS":2,
-            "orderWindows":2,
+            "orderAndroid":3,
+            "orderiOS":3,
+            "orderWindows":3,
             "weightAndroid":0,
             "weightiOS":0,
             "weightWindows":0
